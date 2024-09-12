@@ -7,4 +7,5 @@ public class Student{
   public int volunteerHours;
   
   System.out.println( firstName + " " + lastName);
+  System.out.println( " I am " + studentAge);
 }
